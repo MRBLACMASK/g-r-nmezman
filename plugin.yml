@@ -1,0 +1,9 @@
+name: GorunmezManhunt
+version: 1.0
+main: com.example.gorunmezmanhunt.GorunmezManhunt
+api-version: '1.21'
+commands:
+  gorunmezmanhunt:
+    description: Görünmez Manhunt oyununu yönetir
+    usage: /gorunmezmanhunt <baslat <isim>|dur>
+    aliases: [görünmezmanhunt]
